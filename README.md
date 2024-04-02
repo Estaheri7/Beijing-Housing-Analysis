@@ -13,5 +13,5 @@ This project analyzes housing data from Beijing city, China. The data includes v
 - numpy
 - pandas
 - matplotlib
-- searborn
+- seaborn
 
